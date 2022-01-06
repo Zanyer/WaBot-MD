@@ -7,4 +7,4 @@ pkg install yarn
 git clone https://github.com/NeKosmic/WaBot-MD/
 cd WaBot-MD
 yarn
-node main.js
+node .
