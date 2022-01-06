@@ -1,1 +1,1 @@
-# Bot en prueba, tiene errores :v
+# Bot en prueba, aun tiene errores :v
