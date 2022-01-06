@@ -1,0 +1,40 @@
+{
+  "name": "Kaori-MD",
+  "version": "0.0.5",
+  "description": "Un Simple Bot De WhatsApp Multi Dispositivos",
+  "main": "main.js",
+  "directories": {
+    "lib": "libreria"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-bot",
+    "baileys-md"
+  ],
+  "author": "Matt_M",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "file-type": "^16.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^2.6.6",
+    "pino": "^7.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeKosmic/WaBot-MD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NeKosmic/WaBot-MD/issues"
+  },
+  "homepage": "https://github.com/NeKosmic/WaBot-MD#readme"
+}
