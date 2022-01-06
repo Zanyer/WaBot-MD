@@ -2,6 +2,7 @@
   "name": "Kaori-MD",
   "version": "0.0.5",
   "description": "Un Simple Bot De WhatsApp Multi Dispositivos",
+  "depecrated": false,
   "main": "main.js",
   "directories": {
     "lib": "libreria"
