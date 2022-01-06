@@ -31,7 +31,7 @@ const { fetchJson, getBase64, kyun, createExif } = require('./libreria/fetcher')
 const { sleep, uploadImages, getBuffer, getGroupAdmins, getRandom } = require('./libreria/functions')
 //
 Publi_Priv = true
-prefix = "$"
+prefix = "."
 //
 async function start() {
 	const client = makeWASocket({
